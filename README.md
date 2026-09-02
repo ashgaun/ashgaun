@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ashutoshgauniyal.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/ashgaun/ashgaun/main/assets/banner.svg" width="100%" alt="Ashutosh Gauniyal — AI Engineer and Full-Stack Developer, Christchurch, New Zealand" /></a>
+<a href="https://ashutoshgauniyal.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/ashgaun/ashgaun/main/assets/banner_final.jpg" width="100%" alt="Ashutosh Gauniyal — AI Engineer and Full-Stack Developer, Christchurch, New Zealand" /></a>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://ashutoshgauniyal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1E40AF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ashutosh-gauniyal)
