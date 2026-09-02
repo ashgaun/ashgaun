@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1E40AF,100:3B82F6&height=200&section=header&text=Ashutosh%20Gauniyal&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20and%20Full-Stack%20Developer%20%7C%20Christchurch%2C%20NZ&descSize=17&descColor=E2E8F0&descAlignY=60&animation=fadeIn" width="100%" alt="Ashutosh Gauniyal" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=740&lines=%24+whoami+%E2%86%92+AI+engineer+and+full-stack+developer;%24+stack+%E2%86%92+Python+%7C+C%23+.NET+%7C+React+%7C+PostgreSQL;%24+shipping+%E2%86%92+production+systems+for+paying+clients;%24+principle+%E2%86%92+compute+the+answer%2C+never+guess+it" alt="Typing SVG" />
-
-<br/>
+<img src="https://raw.githubusercontent.com/ashgaun/ashgaun/main/assets/banner.svg" width="100%" alt="Ashutosh Gauniyal — AI Engineer and Full-Stack Developer, Christchurch, New Zealand" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://ashutoshgauniyal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1E40AF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ashutosh-gauniyal)
 [![Email](https://img.shields.io/badge/EMAIL-3B82F6?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:ashutoshgauniyal2004@gmail.com)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=740&lines=%24+whoami+%E2%86%92+AI+engineer+and+full-stack+developer;%24+stack+%E2%86%92+Python+%7C+C%23+.NET+%7C+React+%7C+PostgreSQL;%24+shipping+%E2%86%92+production+systems+for+paying+clients;%24+principle+%E2%86%92+compute+the+answer%2C+never+guess+it" alt="Typing SVG" />
+
 ![Degree](https://img.shields.io/badge/BSc_Computer_Science-University_of_Canterbury-1E40AF?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Christchurch-New_Zealand-1E40AF?style=flat-square&labelColor=0D1117)
 ![Views](https://komarev.com/ghpvc/?username=ashgaun&style=flat-square&color=1E40AF&label=VIEWS)
 
 </div>
@@ -117,14 +114,9 @@ Backend API covering user authentication, petition management, supporter tiers, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashgaun&show_icons=true&hide_border=true&bg_color=000000&title_color=3B82F6&icon_color=1E40AF&text_color=FFFFFF" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashgaun&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=FFFFFF" height="160" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashgaun&bg_color=000000&color=FFFFFF&line=3B82F6&point=1E40AF&area=true&area_color=1E40AF&hide_border=true" width="100%" alt="Activity Graph" />
-
 <img src="https://raw.githubusercontent.com/ashgaun/ashgaun/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
-<br/><br/>
+<br/>
 
 *Build systems that compute the answer, then audit them before anyone else has to.*
 
