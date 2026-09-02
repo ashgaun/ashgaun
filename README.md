@@ -9,7 +9,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=740&lines=%24+whoami+%E2%86%92+AI+engineer+and+full-stack+developer;%24+stack+%E2%86%92+Python+%7C+C%23+.NET+%7C+React+%7C+PostgreSQL;%24+shipping+%E2%86%92+production+systems+for+paying+clients;%24+principle+%E2%86%92+compute+the+answer%2C+never+guess+it" alt="Typing SVG" />
 
 ![Degree](https://img.shields.io/badge/BSc_Computer_Science-University_of_Canterbury-1E40AF?style=flat-square&labelColor=0D1117)
-![Views](https://komarev.com/ghpvc/?username=ashgaun&style=flat-square&color=1E40AF&label=VIEWS)
 
 </div>
 
@@ -30,7 +29,5 @@ Open to Software Engineer, Full-Stack Developer and AI Engineer roles. Full port
 <br/>
 
 *Build systems that compute the answer, then audit them before anyone else has to.*
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:3B82F6,50:1E40AF,100:000000&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
