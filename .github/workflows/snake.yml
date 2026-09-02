@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: ashgaun
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#60A5FA&color_dots=#161B22,#1E3A8A,#1E40AF,#2563EB,#3B82F6
+            dist/github-snake-dark.svg?color_snake=#93C5FD&color_dots=#1B2432,#2C5CB8,#4C8DF6,#7DB3FF,#B6D5FF
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
